@@ -1,10 +1,37 @@
-/* Smooth v-click animations */
+/* ── Typographie globale ──────────────────────────── */
+:root {
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+}
+
+/* ── Anti-overflow : espace pour la barre du bas ──── */
+/* 30px (hauteur barre) + 6px de marge = 36px         */
+.slidev-layout {
+  padding-bottom: 36px !important;
+}
+
+/* La cover et les slides "section" n'ont pas la barre */
+.slidev-layout.cover,
+.slidev-layout.section {
+  padding-bottom: 0 !important;
+}
+
+/* ── Animations v-click fluides ──────────────────── */
 .slidev-vclick-target {
-  transition: all 0.8s ease;
+  transition: opacity 0.5s ease, transform 0.5s ease;
 }
 
 .slidev-vclick-hidden {
   opacity: 0;
   transform: translateY(8px);
   pointer-events: none;
+}
+
+/* ── Blockquotes : léger style académique ─────────── */
+.slidev-layout blockquote {
+  border-left: 3px solid #2c5f9e;
+  background: #f4f7fb;
+  padding: 6px 12px;
+  border-radius: 0 4px 4px 0;
+  font-size: 0.92em;
+  color: #1a3358;
 }
