@@ -41,7 +41,7 @@ class: text-center
 
 Encadrante : Pr. Nathalie TRANNOY-ORBAN (ITheMM) · Resp. pédagogique : J.-S. ANTONIOW
 
-Stage L3 Physique — URCA — 2025/2026
+Stage L3 Physique, URCA, 2025/2026
 
 </div>
 
