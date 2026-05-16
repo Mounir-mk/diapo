@@ -21,25 +21,29 @@ class: text-center
 ### Principe physique, évolution, problématiques, statistiques, recherche actuelle
 
 <!-- Logos institutions — positionnés en haut à droite -->
-<div style="position: absolute; top: 22px; right: 28px; display: flex; align-items: center; gap: 14px;">
+<div style="position: absolute; bottom: 22px; right: 28px; display: flex; align-items: center; gap: 14px;">
   <img src="/institutions/logo-urca.png" style="height: 38px; width: auto;" alt="URCA" />
   <div style="width: 1px; height: 32px; background: #ccd6e8;"></div>
   <img src="/institutions/logo-ithemm.png" style="height: 30px; width: auto;" alt="ITheMM" />
 </div>
 
-<div class="mt-10 text-lg opacity-80">
+<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; width: 75%;">
+
+<div class="text-lg opacity-80">
 
 **Mounir MEKOUI** — Éolien terrestre &nbsp;|&nbsp; **Tahar OTHMANE** — Éolien offshore & far-shore
 
 </div>
 
-<div style="width: 60px; height: 2px; background: #2c5f9e; margin: 18px auto;"></div>
+<div style="width: 60px; height: 2px; background: #2c5f9e; margin: 16px auto;"></div>
 
 <div class="text-sm opacity-60">
 
 Encadrante : Pr. Nathalie TRANNOY-ORBAN (ITheMM) · Resp. pédagogique : J.-S. ANTONIOW
 
 Stage L3 Physique — URCA — 2025/2026
+
+</div>
 
 </div>
 
