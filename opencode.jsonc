@@ -1,0 +1,13 @@
+{
+    "$schema": "https://opencode.ai/config.json",
+    "mcp": {
+        "zai-mcp-server": {
+            "type": "local",
+            "command": ["npx","-y","@z_ai/mcp-server"],
+            "environment": {
+                "Z_AI_API_KEY": "b5165669f4b547fca8f87b05f6c55845.3GGoiPQPyJS1eXBo",
+                "Z_AI_MODE": "ZAI"
+            }
+        }
+    }
+}

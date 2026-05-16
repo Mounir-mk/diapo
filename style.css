@@ -1,0 +1,10 @@
+/* Smooth v-click animations */
+.slidev-vclick-target {
+  transition: all 0.8s ease;
+}
+
+.slidev-vclick-hidden {
+  opacity: 0;
+  transform: translateY(8px);
+  pointer-events: none;
+}
