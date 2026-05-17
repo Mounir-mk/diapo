@@ -48,8 +48,7 @@ Stage L3 Physique, URCA, 2025/2026
 </div>
 
 <!--
-Slide de couverture. Présentation du sujet et des deux intervenants.
-Durée : ~30s
+[MOUNIR - ~20s] Bonjour, je suis Mounir Mekoui et voici Tahar Otmane. Stage bibliographique sur la production d'énergie par l'éolien. Mon focus : éolien terrestre ; Tahar : éolien en mer. Stage au laboratoire ITheMM sous l'encadrement du Pr. Trannoy-Orban.
 -->
 
 ---
