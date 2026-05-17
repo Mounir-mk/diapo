@@ -4,8 +4,8 @@ import { useNav } from '@slidev/client'
 
 const { currentPage, total } = useNav()
 
-// Slides masquées : 1 (cover), 3 (Section Partie I), 14 (Section Partie II)
-const HIDE_ON = new Set([1, 3, 14, 23, 24, 25, 26])
+// Slides masquées : 1 (cover), 3 (Section Partie I), 14 (Section Partie II), 23-26 (fin), 27-32 (backups)
+const HIDE_ON = new Set([1, 3, 14, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32])
 
 // À partir de la slide 15, c'est Tahar (pages/16.md et suivantes)
 const TAHAR_FROM = 15
