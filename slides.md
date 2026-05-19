@@ -20,7 +20,7 @@ class: text-center
 
 ### Principe physique, évolution, problématiques, statistiques, recherche actuelle
 
-<!-- Logos institutions — positionnés en haut à droite -->
+<!-- Logos institutions : positionnés en haut à droite -->
 <div style="position: absolute; bottom: 22px; right: 28px; display: flex; align-items: center; gap: 14px;">
   <img src="/institutions/logo-urca.png" style="height: 38px; width: auto;" alt="URCA" />
   <div style="width: 1px; height: 32px; background: #ccd6e8;"></div>
@@ -31,7 +31,7 @@ class: text-center
 
 <div class="text-lg opacity-80">
 
-**Mounir MEKOUI** — Éolien terrestre &nbsp;|&nbsp; **Tahar OTHMANE** — Éolien offshore & far-shore
+**Mounir MEKOUI** : Éolien terrestre &nbsp;|&nbsp; **Tahar OTHMANE** : Éolien offshore & far-shore
 
 </div>
 
